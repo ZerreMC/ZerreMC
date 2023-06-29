@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scirga
+- 👋 Hi, I’m @ZerreMC
 - 👀 I am a self-taught person who learns all areas of computer science.
 - 🌱 I currently have skills in C++, SQL, PHP, VHDL, MIPS, BASH and PowerShell,due to computer engineering, and web development in a self-taught way.
 - 📫 You can contact me through my professional e-mail address zerreytug.gll@gmail.com.
