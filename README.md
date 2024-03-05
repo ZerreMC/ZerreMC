@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy @ZerreMC
+👋 ¡Hola! Soy @Scirga
 
     🚀 Especialista en Ingeniería Informática | Autodidacta entusiasta
     💻 Habilidades: C++, SQL, VHDL, MIPS, BASH, PowerShell, JAVA | Desarrollo Web autodidacta
